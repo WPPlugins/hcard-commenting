@@ -1,0 +1,9 @@
+#hcard_enabled_link {
+  background: url('./../img/microformats-logo.png') center left no-repeat;
+  padding-left: 14px;
+}
+
+#ajax-loader {
+  background: url('./../img/ajax-loader.gif') center left no-repeat;
+  padding-left: 18px;
+}
